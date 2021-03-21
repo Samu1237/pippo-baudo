@@ -1,2 +1,2 @@
 # pippo-baudo
-<a href="Voce/pippo.html"> Pagina di risposta </a>
+<a href="Voce/Pippo.html"> Pagina di risposta </a>
